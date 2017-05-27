@@ -1,0 +1,5 @@
+name: MongoLib
+version: 3.4.2
+main: com.txgs888.mongolib.MongoLibSpigot
+authors: [txgs888]
+description: A Mongodb connection library.

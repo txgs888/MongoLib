@@ -1,0 +1,3 @@
+rootProject.name = 'mongolib'
+
+include 'mongolib-common', 'mongolib-spigot', 'mongolib-sponge', 'mongolib-bungeecord'
